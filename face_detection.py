@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[15]:
-
-
 import cv2
 
 #importing the face recogonisation algorithm
@@ -39,10 +33,3 @@ while True:
         break
 cam.release()
 cv2.destroyAllWindows()
-
-
-# In[ ]:
-
-
-
-
