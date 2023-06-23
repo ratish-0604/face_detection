@@ -17,4 +17,4 @@ The Real-time Face Detection project is a computer vision-based application deve
 1. Clone the repository:
 
 ```bash
-git clone <>
+git clone <https://github.com/ratish-0604/face_detection.git>
